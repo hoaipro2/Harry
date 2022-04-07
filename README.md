@@ -1,1 +1,0 @@
-(https://cardivo.vercel.app/api?name=TTKTrungKien&description=How%20to%20reach%20me:%20fb.com/TTK221&image=https://avatars.githubusercontent.com/u/87187870?v=4&usqp=CAU&backgroundColor=%23ecf0f1&github=TTKTrungKien&pattern=ticTacToe&colorPattern=%23eaeaea)
