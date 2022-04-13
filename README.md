@@ -1,6 +1,9 @@
 <h1 align="center">
     <img src="./img.svg" alt="Cant Load Image"/>
 </h1>
+<p align="center">
+  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
 <h3 align="left">Contact:</h3>
 <p align="left">
   <a href="https://www.facebook.com/TTK221" target="blank"><img align="center"
@@ -31,4 +34,3 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a>
 </p>
-
